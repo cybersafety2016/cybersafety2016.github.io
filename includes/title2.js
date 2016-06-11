@@ -6,10 +6,10 @@ document.write("</td>");
 
 
 document.write("<td align=\"center\">");
-document.write("<h1>DSN 2017</h1>");
-document.write("<h3>The 47th IEEE/IFIP International Conference on Dependable Systems and Networks</h3>");
-document.write("<h3>June 26-29, 2017</h3>");
-document.write("<h3>Denver,CO,USA</h3>");
+document.write("<h1>CyberSafety 2016</h1>");
+document.write("<h3>The First International Workshop on Computational Methods for CyberSafety </h3>");
+document.write("<h3>October 28, 2016</h3>");
+document.write("<h3>Indianapolis, IN, USA</h3>");
 	
 document.write("</td>");
 document.write("<td>");
