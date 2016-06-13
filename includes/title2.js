@@ -1,7 +1,7 @@
 document.write("<table style=\"width:100%\">");
 document.write("<tr>");
 document.write("<td >	");
-document.write("<img src=\"../figures/DSN_2017.jpg\" width=\"100%\"/>");
+document.write("<img src=\"../figures/cikm_logo.jpg\" width=\"100%\"/>");
 document.write("</td>");
 
 
