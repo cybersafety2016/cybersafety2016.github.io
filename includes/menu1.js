@@ -6,7 +6,7 @@ document.write("<ul class=\"main-nav-ul\">");
 document.write("<li><a>Home</a></li>");
 document.write("<li><a href=\"committees\">Committees</a></li>");
 document.write("<li><a href=\"call_for_contributions\">Call for Contributions</a></li>");
-document.write("<li><a href=\"accepted_contributions\">Accepted Contributions</a></li>");
+document.write("<li><a href=\"program\">Program</a></li>");
 document.write("<li><a href=\"sponsors\">Sponsors</a></li>");
 document.write("<li><a href=\"important_dates\">Important Dates</a></li>");
 document.write("<li><a href=\"registration\">Registration</a></li>");
