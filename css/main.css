@@ -85,7 +85,7 @@ h1  {
 	font-family: Sans-Serif;
 	font-size: 900;
 	font-weight: bolder;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 	color: #16A085;
 }
 
@@ -93,18 +93,19 @@ h2  {
 	font-family: Sans-Serif;
 	font-size: 400;
 	font-weight: bold;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 }
 
 h3  {
 	font-family: Sans-Serif;
 	font-size: 400;
 	font-weight: bold;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 	color=#16A085;
 }
 body {
   font-family: Sans-Serif;
+  line-height: 20pt;
 }
 
 
